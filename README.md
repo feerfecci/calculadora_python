@@ -101,10 +101,5 @@ Melhorias planejadas para as próximas versões:
 - [ ] Adicionar testes automatizados.
 - [ ] Evoluir a estrutura do código conforme novas funcionalidades forem implementadas.
 
-## Status do projeto
-
-🚧 **Em desenvolvimento** — projeto de aprendizado.
-
----
 
 Desenvolvido com Python como parte da minha jornada contínua em programação e engenharia de software.
