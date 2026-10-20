@@ -2,7 +2,6 @@
 
 Aplicação desktop de calculadora com interface gráfica, desenvolvida em **Python** com a biblioteca **Tkinter**. O projeto foi criado como parte do meu processo de aprendizado e aprimoramento técnico em programação, aplicando conceitos fundamentais da linguagem em uma solução visual, funcional e de fácil utilização.
 
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 ![Python](https://img.shields.io/badge/python-3.x-blue)
 ![Tkinter](https://img.shields.io/badge/GUI-Tkinter-informational)
 
@@ -15,7 +14,6 @@ Aplicação desktop de calculadora com interface gráfica, desenvolvida em **Pyt
 - [Conceitos aplicados](#conceitos-aplicados)
 - [Objetivo do projeto](#objetivo-do-projeto)
 - [Roadmap](#roadmap)
-- [Status do projeto](#status-do-projeto)
 
 ## Visão geral
 
